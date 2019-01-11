@@ -1,4 +1,5 @@
-//Algoritmo che stampa il nome del sottoscritto.
+/*Algoritmo che stampa il nome del sottoscritto.*/
+
 #include <stdio.h>
 int main()
 {
