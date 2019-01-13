@@ -1,4 +1,4 @@
-/* Algoritmo che ricevuti in input 2 valori interi, esegue le 5 operazioni fondamentali.*/
+/*Algoritmo che ricevuti in input 2 valori interi, esegue le 5 operazioni fondamentali.*/
 
 #include <stdio.h>
 int main()
