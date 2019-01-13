@@ -1,7 +1,7 @@
 # helloworld_c
 
 
-Algoritmi di Laboratorio di Programmazione alunno Bucchianico Enrico Ruggiero.
+Algoritmi di Laboratorio di Programmazione. Alunno: Bucchianico Enrico Ruggiero, 4^Finf.
 
 
 
