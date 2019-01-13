@@ -1,4 +1,4 @@
-/*Algoritmo che stampa 3 (tre) figure formati da asterischi (*).*/
+/*Algoritmo che stampa 3 figure formate da asterischi (*).*/
 
 #include <stdio.h>
 int main()

@@ -1,4 +1,4 @@
-/*Algoritmo che calcola circonferenza e superficie di un cerchio dato in input il raggio (intero).*/
+/*Algoritmo che calcola circonferenza e superficie di un cerchio ricevuto in input il raggio (intero).*/
 
 #include <stdio.h>
 int main()
