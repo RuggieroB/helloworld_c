@@ -17,9 +17,11 @@ int main()
 	}
 	else
 	{
+		c3 = v % 10;
+		v = v / 10;
+		c2 = v % 10;
+		v = v / 10;
 		c1 = v % 10;
-		c2 = ( v / 10 ) % 10;
-		c3 = ( v / 100 ) % 10;
 		sc = c1 + c2 + c3;
 		printf("\n\nLa somma delle cifre che compongono il numero e': \t %d"" \t ",sc);
 	}
