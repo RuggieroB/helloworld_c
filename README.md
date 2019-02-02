@@ -17,3 +17,5 @@ Algoritmo "cerchio.c": Algoritmo che calcola circonferenza e superficie di un ce
 Algoritmo "maggiore2.c": Algoritmo che ricevuti in input 2 valori interi, stampa il maggiore tra i due utilizzando una sola if (niente else o else if).
 
 Algoritmo "maggiore5.c": Algoritmo che ricevuti in input 5 valori interi, stampa il valore maggiore (solo if, senza else o else if).
+
+Algoritmo "somma_cifre.c": Algoritmo che ricevuto in input un numero intero di 3 cifre, somma le lingole cifre. Nei casi in cui il numero inserito sia minore o maggiore di 3 cifre, verrà stampato un messaggio di errore.
