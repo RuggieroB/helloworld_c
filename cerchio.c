@@ -6,7 +6,7 @@ int main()
 	const double pi=3.14159265359;
 	int r;
 	double c,s;
-	printf("Insererie il raggio del cerchio:\t"),
+	printf("Inserire il raggio del cerchio:\t"),
 	scanf("%d",&r);
 	c = 2.0 * pi * (double) r;
 	s = pi * (double) r * (double) r;
