@@ -11,6 +11,6 @@ int main()
 	c = 2.0 * pi * (double) r;
 	s = pi * (double) r * (double) r;
 	printf("\nCirconferenza del cerchio:\t%f",c);
-	printf("\nSuperficie del cercio:\t%f",s);
+	printf("\nSuperficie del cerchio:\t%f",s);
 return 0;
 }
