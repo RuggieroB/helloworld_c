@@ -1,4 +1,4 @@
-/*Algoritmo che ricevuto in input un numero intero di 3 cifre, somma le lingole cifre. Nei casi in cui il numero inserito sia minore o maggiore di 3 cifre, 
+/*Algoritmo che ricevuto in input un numero intero di 3 cifre, somma le singole cifre. Nei casi in cui il numero inserito sia minore o maggiore di 3 cifre, 
 verrà stampato un messaggio di errore.*/
 
 #include <stdio.h>
